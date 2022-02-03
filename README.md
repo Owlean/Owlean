@@ -1,6 +1,6 @@
 # The Owl estate
 <p align="center">
-  <img source="owlgif.gif" align="center" alt="owl gif">  
+  <img src="owlgif.gif" align="center" alt="owl gif">  
 </p>
 
 <!--
