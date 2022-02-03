@@ -1,4 +1,7 @@
 # The Owl estate
+<p align="center">
+  <img source="owlgif.gif" align="center" alt="owl gif">  
+</p>
 
 <!--
 **BasileNq/BasileNq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
