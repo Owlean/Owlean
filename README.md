@@ -61,6 +61,8 @@
     <img align="center" src="https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=9745f5" />
     <img align="center" src="https://img.shields.io/badge/Tools-Docker/Podman-informational?style=flat&logo=docker&logoColor=white&color=9745f5" />
     <img align="center" src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=9745f5" />
+    <img align="center" src="https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=9745f5" />
+    <img align="center" src="https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=9745f5" />
     <img align="center" src="https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=9745f5" />
     <img align="center" src="https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azuredevops&logoColor=white&color=9745f5" />
     <img align="center" src="https://img.shields.io/badge/Security-Forensic-informational?style=flat&logo=&logoColor=white&color=9745f5" />
